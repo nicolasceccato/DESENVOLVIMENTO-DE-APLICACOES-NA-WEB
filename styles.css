@@ -1,0 +1,97 @@
+* {
+    font-family: sans-serif;
+    font-size: 25px;
+    background-color: burlywood;
+    text-align: justify;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 100px;
+    background-color: blanchedalmond;
+}
+
+.bill,
+.cortella {
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+
+}
+
+table {
+    display: block;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+    max-width: fit-content;
+    margin: 10px auto;
+}
+
+#biblia,
+#vermelho,
+#senhor,
+#harry,
+#diario {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    background-color: yellow;
+}
+
+
+.area {
+    position: relative;
+    left: 37%;
+    top: 29%;
+    width: 320px;
+    height: 270px;
+
+}
+
+.formulario,
+.area {
+
+    display: block;
+}
+
+input,
+#comentario {
+    color: black;
+
+}
+
+.enviar {
+    background-color: #3498db;
+    /* Cor de fundo do botão */
+    color: #fff;
+    /* Cor do texto do botão */
+    padding: 10px 20px;
+    /* Espaçamento interno do botão */
+    border: none;
+    /* Remova a borda padrão do botão */
+    border-radius: 5px;
+    /* Adicione cantos arredondados */
+    text-align: center;
+    /* Centralize o texto horizontalmente */
+    text-decoration: none;
+    /* Remova a decoração de texto (sublinhado) */
+    display: inline-block;
+    /* Torna o botão um elemento em linha com largura/altura definida */
+    font-size: 16px;
+    /* Tamanho da fonte */
+    cursor: pointer;
+    /* Mude o cursor para uma mão ao passar o mouse */
+
+}
+
+.enviar:hover {
+    background-color: yellow;
+}
