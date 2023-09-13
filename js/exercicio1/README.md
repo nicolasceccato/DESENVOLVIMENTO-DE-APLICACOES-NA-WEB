@@ -1,0 +1,1 @@
+1-Faça um formulário com 3 campos de texto, alterar para letras maiúsculas e minúsculas através de checkbox.
