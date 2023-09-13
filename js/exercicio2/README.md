@@ -1,0 +1,1 @@
+2- Crie um formulário com 4 campos, sendo todos obrigatórios. Na submissão, verificar se os dados obrigatórios foram informados, mostre o erro ocorrido ou 'Sucesso' através de janela alert.
